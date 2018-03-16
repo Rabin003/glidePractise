@@ -46,6 +46,8 @@ public class Photo {
         this.title = title;
     }
 
+    
+
     public String getUrl() {
         return url;
     }
